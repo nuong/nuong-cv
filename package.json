@@ -2,12 +2,10 @@
   "name": "slideshow",
   "version": "1.0.0",
   "description": "for test ",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "nuongnguyen",
   "license": "ISC",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
